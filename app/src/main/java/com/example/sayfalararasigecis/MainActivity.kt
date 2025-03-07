@@ -24,7 +24,10 @@ class MainActivity : AppCompatActivity() {
     }
     fun Gecis(view: View)
     {
+        /*
         var gec = Intent(this,ActivitySayfa2::class.java)
         startActivity(gec)
+
+         */
     }
 }
